@@ -1,0 +1,525 @@
+2025-12-14 12:43:08,154 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 12:43:08,154 - INFO - Starting client for ID: 4297254969
+2025-12-14 12:43:11,269 - INFO - Token decoded. Account ID: 13901008644
+2025-12-14 12:43:11,269 - INFO - Final token constructed successfully.
+2025-12-14 12:43:11,432 - INFO - [WHISPER] Connected to 202.81.109.232:39801
+2025-12-14 12:43:11,544 - INFO - [ONLINE] Connected to 202.81.109.7:39699
+2025-12-14 12:46:12,131 - ERROR - Whisper socket closed by remote host. Restarting.
+2025-12-14 12:46:12,132 - WARNING - Initiating bot restart...
+2025-12-14 12:46:12,133 - ERROR - Online socket closed by remote host. Restarting.
+2025-12-14 12:46:12,133 - WARNING - Initiating bot restart...
+2025-12-14 12:46:12,141 - ERROR - Error during pre-restart cleanup: (pid=17345)
+2025-12-14 12:46:12,537 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 12:46:12,537 - INFO - Starting client for ID: 4297254969
+2025-12-14 12:46:14,678 - INFO - Token decoded. Account ID: 13901008644
+2025-12-14 12:46:14,679 - INFO - Final token constructed successfully.
+2025-12-14 12:46:14,812 - INFO - [WHISPER] Connected to 202.81.109.232:39801
+2025-12-14 12:46:14,976 - INFO - [ONLINE] Connected to 202.81.109.7:39699
+2025-12-14 12:49:14,984 - ERROR - Whisper socket closed by remote host. Restarting.
+2025-12-14 12:49:14,985 - WARNING - Initiating bot restart...
+2025-12-14 12:49:14,992 - ERROR - Error during pre-restart cleanup: (pid=17345)
+2025-12-14 12:49:15,375 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 12:49:15,375 - INFO - Starting client for ID: 4297254969
+2025-12-14 12:49:18,535 - INFO - Token decoded. Account ID: 13901008644
+2025-12-14 12:49:18,536 - INFO - Final token constructed successfully.
+2025-12-14 12:49:18,666 - INFO - [WHISPER] Connected to 202.81.109.232:39801
+2025-12-14 12:49:18,781 - INFO - [ONLINE] Connected to 202.81.109.7:39699
+2025-12-14 12:52:18,830 - ERROR - Whisper socket closed by remote host. Restarting.
+2025-12-14 12:52:18,834 - WARNING - Initiating bot restart...
+2025-12-14 12:52:18,841 - ERROR - Error during pre-restart cleanup: (pid=17345)
+2025-12-14 12:52:19,277 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 12:52:19,277 - INFO - Starting client for ID: 4297254969
+2025-12-14 12:52:21,046 - INFO - Token decoded. Account ID: 13901008644
+2025-12-14 12:52:21,047 - INFO - Final token constructed successfully.
+2025-12-14 12:52:21,133 - INFO - [WHISPER] Connected to 202.81.109.232:39801
+2025-12-14 12:52:21,219 - INFO - [ONLINE] Connected to 202.81.109.7:39699
+2025-12-14 12:55:21,321 - ERROR - Online socket closed by remote host. Restarting.
+2025-12-14 12:55:21,321 - WARNING - Initiating bot restart...
+2025-12-14 12:55:21,323 - ERROR - Whisper socket closed by remote host. Restarting.
+2025-12-14 12:55:21,323 - WARNING - Initiating bot restart...
+2025-12-14 12:55:21,331 - ERROR - Error during pre-restart cleanup: (pid=17345)
+2025-12-14 12:55:21,719 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 12:55:21,720 - INFO - Starting client for ID: 4297254969
+2025-12-14 12:55:24,504 - INFO - Token decoded. Account ID: 13901008644
+2025-12-14 12:55:24,505 - INFO - Final token constructed successfully.
+2025-12-14 12:55:24,896 - INFO - [WHISPER] Connected to 202.81.109.232:39801
+2025-12-14 12:55:25,044 - INFO - [ONLINE] Connected to 202.81.109.7:39699
+2025-12-14 12:58:25,617 - ERROR - Online socket closed by remote host. Restarting.
+2025-12-14 12:58:25,618 - ERROR - Whisper socket closed by remote host. Restarting.
+2025-12-14 12:58:25,624 - WARNING - Initiating bot restart...
+2025-12-14 12:58:25,626 - WARNING - Initiating bot restart...
+2025-12-14 12:58:25,640 - ERROR - Error during pre-restart cleanup: (pid=17345)
+2025-12-14 12:58:26,015 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 12:58:26,015 - INFO - Starting client for ID: 4297254969
+2025-12-14 12:58:30,371 - INFO - Token decoded. Account ID: 13901008644
+2025-12-14 12:58:30,371 - INFO - Final token constructed successfully.
+2025-12-14 12:58:30,571 - INFO - [WHISPER] Connected to 202.81.109.232:39801
+2025-12-14 12:58:30,842 - INFO - [ONLINE] Connected to 202.81.109.7:39699
+2025-12-14 12:59:33,689 - CRITICAL - A critical unhandled error occurred in connect loop: [Errno 103] Software caused connection abort. Restarting.
+2025-12-14 12:59:33,690 - CRITICAL - Unhandled error in sockf1 loop: [Errno 103] Software caused connection abort. Restarting.
+2025-12-14 12:59:33,693 - WARNING - Initiating bot restart...
+2025-12-14 12:59:33,691 - WARNING - Initiating bot restart...
+2025-12-14 12:59:33,705 - ERROR - Error during pre-restart cleanup: (pid=17345)
+2025-12-14 12:59:34,145 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 12:59:34,146 - INFO - Starting client for ID: 4297254969
+2025-12-14 12:59:34,149 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 12:59:34,149 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 12:59:47,355 - WARNING - Initiating bot restart...
+2025-12-14 12:59:47,726 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 12:59:47,726 - INFO - Starting client for ID: 4297254969
+2025-12-14 12:59:47,729 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 12:59:47,730 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:00:06,125 - WARNING - Initiating bot restart...
+2025-12-14 13:00:06,484 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:00:06,484 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:00:06,488 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:00:06,488 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:00:12,889 - WARNING - Initiating bot restart...
+2025-12-14 13:00:13,271 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:00:13,271 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:00:13,275 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:00:13,275 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:00:18,276 - WARNING - Initiating bot restart...
+2025-12-14 13:00:18,755 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:00:18,756 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:00:18,759 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:00:18,759 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:00:23,760 - WARNING - Initiating bot restart...
+2025-12-14 13:00:24,119 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:00:24,119 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:00:24,122 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:00:24,123 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:00:29,600 - WARNING - Initiating bot restart...
+2025-12-14 13:00:29,948 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:00:29,948 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:00:29,951 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:00:29,952 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:00:36,451 - WARNING - Initiating bot restart...
+2025-12-14 13:00:36,806 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:00:36,806 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:00:36,810 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:00:36,811 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:00:43,898 - WARNING - Initiating bot restart...
+2025-12-14 13:00:44,267 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:00:44,268 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:00:44,271 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:00:44,271 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:00:49,273 - WARNING - Initiating bot restart...
+2025-12-14 13:00:49,639 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:00:49,639 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:00:49,643 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:00:49,644 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:00:54,645 - WARNING - Initiating bot restart...
+2025-12-14 13:00:54,994 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:00:54,995 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:00:54,999 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:00:54,999 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:01:05,224 - WARNING - Initiating bot restart...
+2025-12-14 13:01:05,650 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:01:05,650 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:01:05,654 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:01:05,654 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:01:10,694 - WARNING - Initiating bot restart...
+2025-12-14 13:01:11,042 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:01:11,042 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:01:11,046 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:01:11,046 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:01:16,397 - WARNING - Initiating bot restart...
+2025-12-14 13:01:16,759 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:01:16,760 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:01:16,763 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:01:16,763 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:01:21,766 - WARNING - Initiating bot restart...
+2025-12-14 13:01:22,120 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:01:22,121 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:01:22,124 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:01:22,124 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:01:27,125 - WARNING - Initiating bot restart...
+2025-12-14 13:01:27,493 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:01:27,494 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:01:27,498 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:01:27,498 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:01:43,052 - WARNING - Initiating bot restart...
+2025-12-14 13:01:43,427 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:01:43,427 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:01:43,430 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:01:43,430 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:01:51,353 - WARNING - Initiating bot restart...
+2025-12-14 13:01:51,736 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:01:51,736 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:01:51,740 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:01:51,740 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:01:56,742 - WARNING - Initiating bot restart...
+2025-12-14 13:01:57,110 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:01:57,110 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:01:57,114 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:01:57,114 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:02:02,116 - WARNING - Initiating bot restart...
+2025-12-14 13:02:02,483 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:02:02,483 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:02:02,486 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:02:02,486 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:02:07,487 - WARNING - Initiating bot restart...
+2025-12-14 13:02:07,853 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:02:07,854 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:02:07,858 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:02:07,858 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:02:12,861 - WARNING - Initiating bot restart...
+2025-12-14 13:02:13,220 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:02:13,220 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:02:13,224 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:02:13,224 - INFO - Restarting the entire application in 5 seconds...
+2025-12-14 13:02:18,224 - WARNING - Initiating bot restart...
+2025-12-14 13:02:18,578 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-14 13:02:18,578 - INFO - Starting client for ID: 4297254969
+2025-12-14 13:02:18,582 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("HTTPSConnection(host='100067.connect.garena.com', port=443): Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-14 13:02:18,582 - INFO - Restarting the entire application in 5 seconds...
+2025-12-15 12:12:49,839 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-15 12:12:49,841 - INFO - Starting client for ID: 4128642034
+2025-12-15 12:12:52,913 - INFO - Token decoded. Account ID: 13103018509
+2025-12-15 12:12:52,915 - INFO - Final token constructed successfully.
+2025-12-15 12:12:52,998 - INFO - [WHISPER] Connected to 202.81.106.96:39801
+2025-12-15 12:12:53,105 - INFO - [ONLINE] Connected to 202.81.106.143:39699
+2025-12-15 12:14:53,474 - INFO - [AUTO] Auto start loop started for team 5289850
+2025-12-15 12:15:33,518 - INFO - [AUTO] Left team 5289850 to rejoin again.
+2025-12-15 12:16:15,572 - INFO - [AUTO] Left team 5289850 to rejoin again.
+2025-12-15 12:16:57,631 - INFO - [AUTO] Left team 5289850 to rejoin again.
+2025-12-15 12:17:39,673 - INFO - [AUTO] Left team 5289850 to rejoin again.
+2025-12-15 12:18:21,722 - INFO - [AUTO] Left team 5289850 to rejoin again.
+2025-12-15 12:19:03,771 - INFO - [AUTO] Left team 5289850 to rejoin again.
+2025-12-15 12:19:45,845 - INFO - [AUTO] Left team 5289850 to rejoin again.
+2025-12-15 12:20:27,906 - INFO - [AUTO] Left team 5289850 to rejoin again.
+2025-12-15 12:20:54,653 - INFO - Shutdown signal received. Exiting.
+2025-12-15 12:21:09,952 - INFO - [AUTO] Left team 5289850 to rejoin again.
+2025-12-15 12:47:00,437 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-15 12:47:00,437 - INFO - Starting client for ID: 4128642034
+2025-12-15 12:47:03,852 - INFO - Token decoded. Account ID: 13103018509
+2025-12-15 12:47:03,853 - INFO - Final token constructed successfully.
+2025-12-15 12:47:03,931 - INFO - [WHISPER] Connected to 202.81.106.96:39801
+2025-12-15 12:47:04,004 - INFO - [ONLINE] Connected to 202.81.106.143:39699
+2025-12-15 12:48:21,510 - INFO - [AUTO] Auto start loop started for team 6261854
+2025-12-15 12:49:01,550 - INFO - [AUTO] Left team 6261854 to rejoin again.
+2025-12-15 12:49:03,552 - INFO - [AUTO] Auto start loop stopped for team 6261854
+2025-12-15 12:49:43,139 - INFO - [AUTO] Auto start loop started for team 6261854
+2025-12-15 12:50:00,827 - INFO - Shutdown signal received. Exiting.
+2025-12-15 12:50:06,233 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-15 12:50:06,233 - INFO - Starting client for ID: 4128642034
+2025-12-15 12:50:09,655 - INFO - Token decoded. Account ID: 13103018509
+2025-12-15 12:50:09,656 - INFO - Final token constructed successfully.
+2025-12-15 12:50:09,746 - INFO - [WHISPER] Connected to 202.81.106.96:39801
+2025-12-15 12:50:09,882 - INFO - [ONLINE] Connected to 202.81.106.143:39699
+2025-12-15 12:50:15,389 - INFO - [AUTO] Auto start loop started for team 6261854
+2025-12-15 12:50:49,423 - INFO - [AUTO] Auto start loop stopped for team 6261854
+2025-12-15 12:51:27,080 - INFO - [AUTO] Auto start loop started for team 6261854
+2025-12-15 12:52:07,118 - INFO - [AUTO] Left team 6261854 to rejoin again.
+2025-12-15 12:52:16,297 - CRITICAL - Unhandled error in sockf1 loop: [Errno 103] Software caused connection abort. Restarting.
+2025-12-15 12:52:16,298 - WARNING - Initiating bot restart...
+2025-12-15 12:52:16,307 - CRITICAL - A critical unhandled error occurred in connect loop: [Errno 103] Software caused connection abort. Restarting.
+2025-12-15 12:52:16,310 - ERROR - Error during pre-restart cleanup: (pid=1010)
+2025-12-15 12:52:16,310 - WARNING - Initiating bot restart...
+2025-12-15 12:52:18,318 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-15 12:52:18,318 - INFO - Starting client for ID: 4128642034
+2025-12-15 12:52:18,326 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7ebfb574d0>: Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-15 12:52:18,327 - INFO - Restarting the entire application in 5 seconds...
+2025-12-15 12:52:23,328 - WARNING - Initiating bot restart...
+2025-12-15 12:52:24,596 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-15 12:52:24,597 - INFO - Starting client for ID: 4128642034
+2025-12-15 12:52:27,140 - INFO - Token decoded. Account ID: 13103018509
+2025-12-15 12:52:27,142 - INFO - Final token constructed successfully.
+2025-12-15 12:52:27,224 - INFO - [WHISPER] Connected to 202.81.106.96:39801
+2025-12-15 12:52:27,370 - INFO - [ONLINE] Connected to 202.81.106.143:39699
+2025-12-15 12:52:31,638 - INFO - Shutdown signal received. Exiting.
+2025-12-15 12:52:37,592 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-15 12:52:37,593 - INFO - Starting client for ID: 4128642034
+2025-12-15 12:52:39,310 - INFO - Token decoded. Account ID: 13103018509
+2025-12-15 12:52:39,312 - INFO - Final token constructed successfully.
+2025-12-15 12:52:39,450 - INFO - [WHISPER] Connected to 202.81.106.96:39801
+2025-12-15 12:52:39,542 - INFO - [ONLINE] Connected to 202.81.106.143:39699
+2025-12-15 12:55:39,557 - ERROR - Whisper socket closed by remote host. Restarting.
+2025-12-15 12:55:39,560 - WARNING - Initiating bot restart...
+2025-12-15 12:55:39,564 - ERROR - Error during pre-restart cleanup: (pid=2975)
+2025-12-15 12:55:40,893 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-15 12:55:40,894 - INFO - Starting client for ID: 4128642034
+2025-12-15 12:55:43,355 - INFO - Token decoded. Account ID: 13103018509
+2025-12-15 12:55:43,356 - INFO - Final token constructed successfully.
+2025-12-15 12:55:43,432 - INFO - [WHISPER] Connected to 202.81.106.96:39801
+2025-12-15 12:55:43,515 - INFO - [ONLINE] Connected to 202.81.106.143:39699
+2025-12-15 12:58:09,107 - INFO - [AUTO] Auto start loop started for team 2251556
+2025-12-15 12:58:49,150 - INFO - [AUTO] Left team 2251556 to rejoin again.
+2025-12-15 12:59:31,188 - INFO - [AUTO] Left team 2251556 to rejoin again.
+2025-12-15 13:00:13,233 - INFO - [AUTO] Left team 2251556 to rejoin again.
+2025-12-15 13:00:55,278 - INFO - [AUTO] Left team 2251556 to rejoin again.
+2025-12-15 13:01:37,330 - INFO - [AUTO] Left team 2251556 to rejoin again.
+2025-12-15 13:02:05,111 - INFO - Shutdown signal received. Exiting.
+2025-12-15 17:56:57,023 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-15 17:56:57,024 - INFO - Starting client for ID: 4128642034
+2025-12-15 17:56:59,305 - INFO - Token decoded. Account ID: 13103018509
+2025-12-15 17:56:59,307 - INFO - Final token constructed successfully.
+2025-12-15 17:56:59,380 - INFO - [WHISPER] Connected to 202.81.106.96:39801
+2025-12-15 17:56:59,454 - INFO - [ONLINE] Connected to 202.81.106.143:39699
+2025-12-15 17:57:42,629 - INFO - [AUTO] Auto start loop started for team 2210490
+2025-12-15 17:58:22,666 - INFO - [AUTO] Left team 2210490 to rejoin again.
+2025-12-15 17:58:45,688 - INFO - [AUTO] Auto start loop stopped for team 2210490
+2025-12-15 17:58:55,971 - INFO - [AUTO] Auto start loop started for team 2873890
+2025-12-15 17:59:36,013 - INFO - [AUTO] Left team 2873890 to rejoin again.
+2025-12-15 18:00:18,084 - INFO - [AUTO] Left team 2873890 to rejoin again.
+2025-12-15 18:01:00,151 - INFO - [AUTO] Left team 2873890 to rejoin again.
+2025-12-15 18:01:42,202 - INFO - [AUTO] Left team 2873890 to rejoin again.
+2025-12-15 18:02:24,250 - INFO - [AUTO] Left team 2873890 to rejoin again.
+2025-12-15 18:02:56,289 - INFO - [AUTO] Auto start loop stopped for team 2873890
+2025-12-15 18:03:43,318 - INFO - [AUTO] Auto start loop started for team 5507690
+2025-12-15 18:04:12,225 - CRITICAL - Unhandled error in sockf1 loop: [Errno 103] Software caused connection abort. Restarting.
+2025-12-15 18:04:12,227 - WARNING - Initiating bot restart...
+2025-12-15 18:04:12,226 - CRITICAL - A critical unhandled error occurred in connect loop: [Errno 103] Software caused connection abort. Restarting.
+2025-12-15 18:04:12,238 - WARNING - Initiating bot restart...
+2025-12-15 18:04:12,252 - ERROR - Error during pre-restart cleanup: (pid=14759)
+2025-12-15 18:04:13,911 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-15 18:04:13,912 - INFO - Starting client for ID: 4128642034
+2025-12-15 18:04:13,918 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x77b87f7470>: Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-15 18:04:13,919 - INFO - Restarting the entire application in 5 seconds...
+2025-12-15 18:04:18,919 - WARNING - Initiating bot restart...
+2025-12-15 18:04:19,805 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-15 18:04:19,806 - INFO - Starting client for ID: 4128642034
+2025-12-15 18:04:19,811 - CRITICAL - A critical error occurred in the main block: HTTPSConnectionPool(host='100067.connect.garena.com', port=443): Max retries exceeded with url: /oauth/guest/token/grant (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x711b6ae7e0>: Failed to resolve '100067.connect.garena.com' ([Errno 7] No address associated with hostname)"))
+2025-12-15 18:04:19,811 - INFO - Restarting the entire application in 5 seconds...
+2025-12-15 18:04:24,812 - WARNING - Initiating bot restart...
+2025-12-15 18:04:25,827 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-15 18:04:25,827 - INFO - Starting client for ID: 4128642034
+2025-12-15 18:04:28,721 - INFO - Token decoded. Account ID: 13103018509
+2025-12-15 18:04:28,722 - INFO - Final token constructed successfully.
+2025-12-15 18:04:28,811 - INFO - [WHISPER] Connected to 202.81.106.96:39801
+2025-12-15 18:04:28,898 - INFO - [ONLINE] Connected to 202.81.106.143:39699
+2025-12-15 18:07:28,921 - ERROR - Whisper socket closed by remote host. Restarting.
+2025-12-15 18:07:28,926 - WARNING - Initiating bot restart...
+2025-12-15 18:07:28,931 - ERROR - Error during pre-restart cleanup: (pid=14759)
+2025-12-15 18:07:30,598 - INFO - Main execution block started (/lw, /stop, /help bot).
+2025-12-15 18:07:30,599 - INFO - Starting client for ID: 4128642034
+2025-12-15 18:07:31,156 - INFO - Shutdown signal received. Exiting.
+2025-12-15 20:41:44,301 - INFO - Starting FF_CLIENT login...
+2025-12-15 20:41:44,343 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.0.0.4:8080
+2025-12-15 20:41:44,344 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-15 20:41:46,766 - INFO - Token decoded. Account ID: 13103018509
+2025-12-15 20:41:46,766 - INFO - Final token constructed successfully.
+2025-12-15 20:41:46,860 - INFO - [WHISPER] Connected to 202.81.106.96:39801
+2025-12-15 20:41:46,954 - INFO - [ONLINE] Connected to 202.81.106.143:39699
+2025-12-15 20:41:52,646 - INFO - 127.0.0.1 - - [15/Dec/2025 20:41:52] "[35m[1mGET /start/6548710 HTTP/1.1[0m" 500 -
+2025-12-15 20:42:06,837 - INFO - 127.0.0.1 - - [15/Dec/2025 20:42:06] "[35m[1mGET /start/6548710 HTTP/1.1[0m" 500 -
+2025-12-15 20:44:46,965 - ERROR - Whisper socket closed by remote host. Restarting.
+2025-12-15 20:44:46,968 - WARNING - Initiating bot restart...
+2025-12-15 20:44:46,973 - ERROR - Error during pre-restart cleanup: (pid=20693)
+2025-12-15 20:44:48,602 - INFO - Starting FF_CLIENT login...
+2025-12-15 20:46:17,213 - INFO - Starting FF_CLIENT login...
+2025-12-15 20:46:17,257 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.0.0.4:8080
+2025-12-15 20:46:17,258 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-15 20:46:18,739 - INFO - Token decoded. Account ID: 13103018509
+2025-12-15 20:46:18,740 - INFO - Final token constructed successfully.
+2025-12-15 20:46:18,827 - INFO - [WHISPER] Connected to 202.81.106.96:39801
+2025-12-15 20:46:18,933 - INFO - [ONLINE] Connected to 202.81.106.143:39699
+2025-12-15 20:46:21,500 - INFO - 127.0.0.1 - - [15/Dec/2025 20:46:21] "[35m[1mGET /start/6548710 HTTP/1.1[0m" 500 -
+2025-12-15 20:46:22,664 - INFO - 127.0.0.1 - - [15/Dec/2025 20:46:22] "[35m[1mGET /start/6548710 HTTP/1.1[0m" 500 -
+2025-12-15 20:47:11,422 - INFO - 127.0.0.1 - - [15/Dec/2025 20:47:11] "[35m[1mGET /start/6929412 HTTP/1.1[0m" 500 -
+2025-12-15 20:49:18,920 - ERROR - Whisper socket closed by remote host. Restarting.
+2025-12-15 20:49:18,923 - WARNING - Initiating bot restart...
+2025-12-15 20:49:18,928 - ERROR - Error during pre-restart cleanup: (pid=22805)
+2025-12-15 20:49:20,621 - INFO - Starting FF_CLIENT login...
+2025-12-15 20:51:25,767 - INFO - Starting FF_CLIENT login...
+2025-12-15 20:51:25,808 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.0.0.4:8080
+2025-12-15 20:51:25,808 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-15 20:51:28,296 - INFO - Token decoded. Account ID: 13103018509
+2025-12-15 20:51:28,298 - INFO - Final token constructed successfully.
+2025-12-15 20:51:28,384 - INFO - [WHISPER] Connected to 202.81.106.96:39801
+2025-12-15 20:52:45,786 - INFO - Starting FF_CLIENT login...
+2025-12-15 20:52:45,817 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.0.0.4:8080
+2025-12-15 20:52:45,817 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-15 20:52:48,236 - INFO - Token decoded. Account ID: 13103018509
+2025-12-15 20:52:48,237 - INFO - Final token constructed successfully.
+2025-12-15 20:52:48,318 - INFO - [WHISPER] Connected to 202.81.106.96:39801
+2025-12-15 20:52:48,405 - INFO - [ONLINE] Connected to 202.81.106.143:39699
+2025-12-15 20:52:53,704 - INFO - 127.0.0.1 - - [15/Dec/2025 20:52:53] "[35m[1mGET /start/6929412 HTTP/1.1[0m" 500 -
+2025-12-15 20:53:17,044 - INFO - Starting FF_CLIENT login...
+2025-12-15 20:53:17,102 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.0.0.4:8080
+2025-12-15 20:53:17,103 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-15 20:53:18,806 - INFO - Token decoded. Account ID: 13103018509
+2025-12-15 20:53:18,807 - INFO - Final token constructed successfully.
+2025-12-15 20:53:18,896 - INFO - [WHISPER] Connected to 202.81.106.96:39801
+2025-12-15 20:53:18,982 - INFO - [ONLINE] Connected to 202.81.106.143:39699
+2025-12-15 20:53:21,584 - INFO - 127.0.0.1 - - [15/Dec/2025 20:53:21] "[35m[1mGET /start/6929412 HTTP/1.1[0m" 500 -
+2025-12-15 20:53:22,681 - INFO - 127.0.0.1 - - [15/Dec/2025 20:53:22] "[35m[1mGET /start/6929412 HTTP/1.1[0m" 500 -
+2025-12-15 20:55:31,679 - INFO - Starting FF_CLIENT login...
+2025-12-15 20:55:34,206 - INFO - Token decoded. Account ID: 13103018509
+2025-12-15 20:55:34,209 - INFO - Final token constructed successfully.
+2025-12-15 20:55:34,295 - INFO - [WHISPER] Connected to 202.81.106.96:39801
+2025-12-15 20:55:34,378 - INFO - [ONLINE] Connected to 202.81.106.143:39699
+2025-12-15 20:56:01,685 - WARNING - Bot did not initialize in 30 seconds
+2025-12-15 20:56:01,791 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.0.0.4:8080
+2025-12-15 20:56:01,792 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-15 20:56:09,865 - ERROR - Bot is None when trying to start
+2025-12-15 20:56:09,868 - INFO - 127.0.0.1 - - [15/Dec/2025 20:56:09] "[35m[1mGET /start/6929412 HTTP/1.1[0m" 500 -
+2025-12-15 20:56:11,379 - ERROR - Bot is None when trying to start
+2025-12-15 20:56:11,380 - INFO - 127.0.0.1 - - [15/Dec/2025 20:56:11] "[35m[1mGET /start/6929412 HTTP/1.1[0m" 500 -
+2025-12-15 20:58:34,480 - ERROR - Whisper socket closed by remote host. Restarting.
+2025-12-15 20:58:34,488 - WARNING - Initiating bot restart...
+2025-12-15 20:58:34,492 - ERROR - Online socket closed by remote host. Restarting.
+2025-12-15 20:58:34,493 - WARNING - Initiating bot restart...
+2025-12-15 20:58:34,500 - ERROR - Error during pre-restart cleanup: (pid=30158)
+2025-12-15 20:58:36,318 - INFO - Starting FF_CLIENT login...
+2025-12-15 20:58:39,147 - INFO - Token decoded. Account ID: 13103018509
+2025-12-15 20:58:39,149 - INFO - Final token constructed successfully.
+2025-12-15 20:58:39,237 - INFO - [WHISPER] Connected to 202.81.106.96:39801
+2025-12-15 20:58:39,329 - INFO - [ONLINE] Connected to 202.81.106.143:39699
+2025-12-15 20:59:06,340 - WARNING - Bot did not initialize in 30 seconds
+2025-12-15 21:02:33,884 - INFO - Starting FF_CLIENT login...
+2025-12-15 21:02:33,928 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.0.0.4:8080
+2025-12-15 21:02:33,929 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-15 21:02:36,233 - INFO - Token decoded. Account ID: 13103018509
+2025-12-15 21:02:36,235 - INFO - Final token constructed successfully.
+2025-12-15 21:02:36,317 - INFO - [WHISPER] Connected to 202.81.106.96:39801
+2025-12-15 21:02:36,413 - INFO - [ONLINE] Connected to 202.81.106.143:39699
+2025-12-15 21:02:41,091 - INFO - 127.0.0.1 - - [15/Dec/2025 21:02:41] "[35m[1mGET /start/6929412 HTTP/1.1[0m" 503 -
+2025-12-15 21:03:59,625 - INFO - 127.0.0.1 - - [15/Dec/2025 21:03:59] "[35m[1mGET /start/7203914 HTTP/1.1[0m" 503 -
+2025-12-15 21:04:30,318 - INFO - 127.0.0.1 - - [15/Dec/2025 21:04:30] "[35m[1mGET /start/7203914 HTTP/1.1[0m" 503 -
+2025-12-15 21:05:14,175 - INFO - 127.0.0.1 - - [15/Dec/2025 21:05:14] "[35m[1mGET /start/7203914 HTTP/1.1[0m" 503 -
+2025-12-15 21:05:36,419 - ERROR - Whisper socket closed by remote host. Restarting.
+2025-12-15 21:05:36,420 - WARNING - Initiating bot restart...
+2025-12-15 21:05:36,430 - ERROR - Error during pre-restart cleanup: (pid=2886)
+2025-12-15 21:05:38,466 - INFO - Starting FF_CLIENT login...
+2025-12-15 21:06:27,563 - INFO - Starting FF_CLIENT login...
+2025-12-15 21:06:27,604 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.0.0.4:8080
+2025-12-15 21:06:27,605 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-15 21:06:30,184 - INFO - Token decoded. Account ID: 13103018509
+2025-12-15 21:06:30,186 - INFO - Final token constructed successfully.
+2025-12-15 21:06:30,265 - INFO - [WHISPER] Connected to 202.81.106.96:39801
+2025-12-15 21:06:30,354 - INFO - [ONLINE] Connected to 202.81.106.143:39699
+2025-12-15 21:06:30,960 - INFO - 127.0.0.1 - - [15/Dec/2025 21:06:30] "GET /status HTTP/1.1" 200 -
+2025-12-15 21:06:32,450 - INFO - 127.0.0.1 - - [15/Dec/2025 21:06:32] "GET /status HTTP/1.1" 200 -
+2025-12-15 21:06:42,974 - INFO - 127.0.0.1 - - [15/Dec/2025 21:06:42] "GET /status HTTP/1.1" 200 -
+2025-12-15 21:06:43,873 - INFO - 127.0.0.1 - - [15/Dec/2025 21:06:43] "GET /status HTTP/1.1" 200 -
+2025-12-15 21:07:39,453 - INFO - 127.0.0.1 - - [15/Dec/2025 21:07:39] "GET /status HTTP/1.1" 200 -
+2025-12-15 21:08:34,995 - INFO - Starting FF_CLIENT login...
+2025-12-15 21:08:35,074 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.0.0.4:8080
+2025-12-15 21:08:35,075 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-15 21:08:37,498 - INFO - Token decoded. Account ID: 13103018509
+2025-12-15 21:08:37,499 - INFO - Final token constructed successfully.
+2025-12-15 21:08:37,583 - INFO - [WHISPER] Connected to 202.81.106.96:39801
+2025-12-15 21:08:37,671 - INFO - [ONLINE] Connected to 202.81.106.143:39699
+2025-12-15 21:08:59,247 - INFO - 127.0.0.1 - - [15/Dec/2025 21:08:59] "[35m[1mGET /start/7203914 HTTP/1.1[0m" 503 -
+2025-12-15 21:09:07,217 - INFO - 127.0.0.1 - - [15/Dec/2025 21:09:07] "[35m[1mGET /start/7203914 HTTP/1.1[0m" 503 -
+2025-12-15 21:09:08,276 - INFO - 127.0.0.1 - - [15/Dec/2025 21:09:08] "[35m[1mGET /start/7203914 HTTP/1.1[0m" 503 -
+2025-12-15 21:09:19,974 - INFO - 127.0.0.1 - - [15/Dec/2025 21:09:19] "GET /status HTTP/1.1" 200 -
+2025-12-15 21:09:21,887 - INFO - 127.0.0.1 - - [15/Dec/2025 21:09:21] "GET /status HTTP/1.1" 200 -
+2025-12-15 21:11:37,682 - ERROR - Whisper socket closed by remote host. Restarting.
+2025-12-15 21:11:37,695 - WARNING - Initiating bot restart...
+2025-12-15 21:11:37,712 - ERROR - Error during pre-restart cleanup: (pid=7396)
+2025-12-15 21:11:39,361 - INFO - Starting FF_CLIENT login...
+2025-12-15 21:15:58,208 - INFO - Starting FF_CLIENT login...
+2025-12-15 21:15:58,249 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.0.0.4:8080
+2025-12-15 21:15:58,250 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-15 21:15:59,998 - INFO - Token decoded. Account ID: 13103018509
+2025-12-15 21:16:00,000 - INFO - Final token constructed successfully.
+2025-12-15 21:16:00,089 - INFO - [WHISPER] Connected to 202.81.106.96:39801
+2025-12-15 21:16:00,192 - INFO - [ONLINE] Connected to 202.81.106.143:39699
+2025-12-15 21:16:05,389 - INFO - 127.0.0.1 - - [15/Dec/2025 21:16:05] "GET /status HTTP/1.1" 200 -
+2025-12-15 21:16:06,471 - INFO - 127.0.0.1 - - [15/Dec/2025 21:16:06] "GET /status HTTP/1.1" 200 -
+2025-12-15 21:16:07,213 - INFO - 127.0.0.1 - - [15/Dec/2025 21:16:07] "GET /status HTTP/1.1" 200 -
+2025-12-15 21:16:07,813 - INFO - 127.0.0.1 - - [15/Dec/2025 21:16:07] "GET /status HTTP/1.1" 200 -
+2025-12-15 21:16:18,759 - INFO - Bot not ready. Waiting... 0s
+2025-12-15 21:16:20,759 - INFO - Bot not ready. Waiting... 2s
+2025-12-15 21:16:22,760 - INFO - Bot not ready. Waiting... 4s
+2025-12-15 21:16:24,762 - INFO - Bot not ready. Waiting... 6s
+2025-12-15 21:16:26,763 - INFO - Bot not ready. Waiting... 8s
+2025-12-15 21:16:28,765 - INFO - Bot not ready. Waiting... 10s
+2025-12-15 21:16:30,766 - INFO - Bot not ready. Waiting... 12s
+2025-12-15 21:16:32,768 - INFO - Bot not ready. Waiting... 14s
+2025-12-15 21:16:34,769 - INFO - Bot not ready. Waiting... 16s
+2025-12-15 21:16:36,770 - INFO - Bot not ready. Waiting... 18s
+2025-12-15 21:16:38,770 - INFO - Bot not ready. Waiting... 20s
+2025-12-15 21:16:40,771 - INFO - Bot not ready. Waiting... 22s
+2025-12-15 21:16:42,773 - INFO - Bot not ready. Waiting... 24s
+2025-12-15 21:16:44,774 - INFO - Bot not ready. Waiting... 26s
+2025-12-15 21:16:46,776 - INFO - Bot not ready. Waiting... 28s
+2025-12-15 21:16:48,777 - INFO - Bot not ready. Waiting... 30s
+2025-12-15 21:16:50,778 - INFO - Bot not ready. Waiting... 32s
+2025-12-15 21:16:52,779 - INFO - Bot not ready. Waiting... 34s
+2025-12-15 21:16:54,781 - INFO - Bot not ready. Waiting... 36s
+2025-12-15 21:16:56,783 - INFO - Bot not ready. Waiting... 38s
+2025-12-15 21:16:58,785 - INFO - Bot not ready. Waiting... 40s
+2025-12-15 21:17:00,786 - INFO - Bot not ready. Waiting... 42s
+2025-12-15 21:17:02,788 - INFO - Bot not ready. Waiting... 44s
+2025-12-15 21:17:04,788 - INFO - Bot not ready. Waiting... 46s
+2025-12-15 21:17:06,790 - INFO - Bot not ready. Waiting... 48s
+2025-12-15 21:17:08,791 - INFO - Bot not ready. Waiting... 50s
+2025-12-15 21:17:10,792 - INFO - Bot not ready. Waiting... 52s
+2025-12-15 21:17:12,794 - INFO - Bot not ready. Waiting... 54s
+2025-12-15 21:17:14,796 - INFO - Bot not ready. Waiting... 56s
+2025-12-15 21:17:16,797 - INFO - Bot not ready. Waiting... 58s
+2025-12-15 21:17:18,799 - ERROR - Bot did not initialize in time.
+2025-12-15 21:17:18,800 - INFO - 127.0.0.1 - - [15/Dec/2025 21:17:18] "[35m[1mGET /start/7203914 HTTP/1.1[0m" 503 -
+2025-12-15 21:19:00,335 - ERROR - Whisper socket closed by remote host. Restarting.
+2025-12-15 21:19:00,336 - ERROR - Online socket closed by remote host. Restarting.
+2025-12-15 21:19:00,339 - WARNING - Initiating bot restart...
+2025-12-15 21:19:00,341 - WARNING - Initiating bot restart...
+2025-12-15 21:19:00,352 - ERROR - Error during pre-restart cleanup: (pid=13672)
+2025-12-15 21:19:00,352 - ERROR - Error during pre-restart cleanup: (pid=13672)
+2025-12-15 21:19:02,819 - INFO - Starting FF_CLIENT login...
+2025-12-15 21:20:39,520 - INFO - Starting FF_CLIENT login...
+2025-12-15 21:20:39,579 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.0.0.4:8080
+2025-12-15 21:20:39,579 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-15 21:20:41,601 - INFO - Token decoded. Account ID: 13103018509
+2025-12-15 21:20:41,602 - INFO - Final token constructed successfully.
+2025-12-15 21:20:41,687 - INFO - [WHISPER] Connected to 202.81.106.96:39801
+2025-12-15 21:20:41,784 - INFO - [ONLINE] Connected to 202.81.106.143:39699
+2025-12-15 21:20:49,793 - ERROR - Bot is None when trying to start
+2025-12-15 21:20:49,798 - INFO - 127.0.0.1 - - [15/Dec/2025 21:20:49] "[35m[1mGET /start/7203914 HTTP/1.1[0m" 503 -
+2025-12-15 21:20:51,043 - ERROR - Bot is None when trying to start
+2025-12-15 21:20:51,044 - INFO - 127.0.0.1 - - [15/Dec/2025 21:20:51] "[35m[1mGET /start/7203914 HTTP/1.1[0m" 503 -
+2025-12-15 21:20:51,848 - ERROR - Bot is None when trying to start
+2025-12-15 21:20:51,849 - INFO - 127.0.0.1 - - [15/Dec/2025 21:20:51] "[35m[1mGET /start/7203914 HTTP/1.1[0m" 503 -
+2025-12-15 21:21:52,958 - ERROR - Bot is None when trying to start
+2025-12-15 21:21:52,960 - INFO - 127.0.0.1 - - [15/Dec/2025 21:21:52] "[35m[1mGET /start/8281316 HTTP/1.1[0m" 503 -
+2025-12-15 21:22:02,606 - ERROR - Bot is None when trying to start
+2025-12-15 21:22:02,607 - INFO - 127.0.0.1 - - [15/Dec/2025 21:22:02] "[35m[1mGET /start/8281316 HTTP/1.1[0m" 503 -
+2025-12-15 21:22:20,325 - INFO - [AUTO] Auto start loop started for team 8281316
+2025-12-15 21:26:08,770 - INFO - Starting FF_CLIENT login...
+2025-12-15 21:26:08,828 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.0.0.4:8080
+2025-12-15 21:26:08,828 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-15 21:26:10,759 - INFO - Token decoded. Account ID: 13103018509
+2025-12-15 21:26:10,760 - INFO - Final token constructed successfully.
+2025-12-15 21:26:10,861 - INFO - [WHISPER] Connected to 202.81.106.96:39801
+2025-12-15 21:26:10,965 - INFO - [ONLINE] Connected to 202.81.106.143:39699
+2025-12-15 21:26:45,759 - INFO - 127.0.0.1 - - [15/Dec/2025 21:26:45] "[35m[1mGET /start/8281316 HTTP/1.1[0m" 503 -
